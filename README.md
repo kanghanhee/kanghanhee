@@ -25,7 +25,7 @@
 
 <br>
 
-### Projects
+## Projects
 [테이커스(Takeus)](https://github.com/TAKE-US/TAKEUS-BACK) : 유기견 해외이동봉사 대상견 매칭 서비스
 [킥(ㅋick)](https://github.com/jokj624/sw-slackbot) : 이불'킥'하고 싶은 순간을 유머스럽게 공유하는 커뮤니티형 플랫폼
 <br>
