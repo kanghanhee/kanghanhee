@@ -6,7 +6,7 @@
  
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kanghanhee&&count_private=true&show_icons=true)](https://github.com/kanghanhee) 
  
-### :eyes: :seedling::books: interest
+### :eyes: :seedling: interest
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)  ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white)  ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white)
 <br>
  
@@ -24,10 +24,18 @@
 
 
 <br>
+## About me
+- Sungshin Women's University, Dept. Computer Engineering
+- 29th SOPT Server Development
+- 28th SOPT Server Development
 
-## Projects
+## :books: Projects
+### 2021
 - [테이커스(Takeus)](https://github.com/TAKE-US/TAKEUS-BACK) : 유기견 해외이동봉사 대상견 매칭 서비스  
-- [킥(ㅋick)](https://github.com/jokj624/sw-slackbot) : 이불'킥'하고 싶은 순간을 유머스럽게 공유하는 커뮤니티형 플랫폼  
+- [킥(ㅋick)](https://github.com/jokj624/sw-slackbot) : 이불'킥'하고 싶은 순간을 유머스럽게 공유하는 커뮤니티형 플랫폼
+
+### 2020
+- [E-oom](https://github.com/kanghanhee/E-oom) : 온라인(비대면) 교육 전문 플랫폼
 <br> 
 
 <!--
