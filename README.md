@@ -16,7 +16,7 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white)  ![AmazonAWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white)
 <br><br><br>
   
-### :raised_hands: me :raised_hands:
+### :raised_hands: me
 <h5 align="center">
  
  Sungshin Women's University, Dept. Computer Engineering </br>
