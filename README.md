@@ -25,7 +25,7 @@
 
 <br>
 
-## About me
+## :cherries: About me
 - Sungshin Women's University, Dept. Computer Engineering
 - 29th SOPT Server Development
 - 28th SOPT Server Development
