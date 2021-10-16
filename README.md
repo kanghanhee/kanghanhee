@@ -1,9 +1,11 @@
+<div align=center>
 ![header](https://capsule-render.vercel.app/api?type=waving&height=200&text=hi!%20I'm%20Hanhee!&color=gradient)
 
 ## :raised_hands: ME
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:snugyun01@gmail.com)
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://zzsza.github.io/)](https://zzsza.github.io/)
 
+</div>
 <!--
 **kanghanhee/kanghanhee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
