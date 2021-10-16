@@ -31,9 +31,6 @@
 
 <br>
 
-## :cherries: About me
-
-
 ## :books: Projects
 ### 2021
 - [테이커스(Takeus)](https://github.com/TAKE-US/TAKEUS-BACK) : 유기견 해외이동봉사 대상견 매칭 서비스  
