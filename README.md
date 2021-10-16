@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=200&text=Hanhee's Github!&color=gradient)
+![header](https://capsule-render.vercel.app/api?type=waving&height=200&text=Hanhee's%Github!&color=gradient)
 
 
 <!--
