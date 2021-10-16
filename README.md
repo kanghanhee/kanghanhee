@@ -22,8 +22,8 @@
 29th SOPT Server Development </br>
 28th SOPT Server Development </br>
 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:snugyun01@gmail.com)
-[![GitHub](http://img.shields.io/badge/GitHub-black?style=flat-square&logo=github&link=https://zzsza.github.io/)](https://github.com/kanghanhee)
+👉[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:snugyun01@gmail.com)
+[![GitHub](http://img.shields.io/badge/GitHub-black?style=flat-square&logo=github&link=https://zzsza.github.io/)](https://github.com/kanghanhee)👈
 
 </div>
 
