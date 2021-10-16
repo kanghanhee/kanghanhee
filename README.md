@@ -17,6 +17,9 @@
 <br><br><br>
   
 ### :raised_hands: me
+- Sungshin Women's University, Dept. Computer Engineering
+- 29th SOPT Server Development
+- 28th SOPT Server Development
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:snugyun01@gmail.com)
 [![GitHub](http://img.shields.io/badge/GitHub-black?style=flat-square&logo=github&link=https://zzsza.github.io/)](https://github.com/kanghanhee)
 
@@ -26,9 +29,7 @@
 <br>
 
 ## :cherries: About me
-- Sungshin Women's University, Dept. Computer Engineering
-- 29th SOPT Server Development
-- 28th SOPT Server Development
+
 
 ## :books: Projects
 ### 2021
