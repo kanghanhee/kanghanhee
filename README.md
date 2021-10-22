@@ -35,6 +35,7 @@
 ### 2021
 - [테이커스(Takeus)](https://github.com/TAKE-US/TAKEUS-BACK) : 유기견 해외이동봉사 대상견 매칭 서비스  
 - [킥(ㅋick)](https://github.com/SOPT28th-SOPKATHON-Kick) : 이불'킥'하고 싶은 순간을 유머스럽게 공유하는 커뮤니티형 플랫폼
+- [빵동여지도(빵東輿地圖)]() : 당신의 후회없는 빵 선택을 도와줄 국내 유일 브레드 맵
 
 ### 2020
 - [E-oom](https://github.com/kanghanhee/E-oom) : 온라인(비대면) 교육 전문 플랫폼
