@@ -35,7 +35,7 @@
 - [킥(ㅋick)](https://github.com/SOPT28th-SOPKATHON-Kick) : 이불'킥'하고 싶은 순간을 유머스럽게 공유하는 커뮤니티형 플랫폼
 - [빵동여지도(빵東輿地圖)](https://github.com/bbangmap/BBangMap-Server) : 당신의 후회없는 빵 선택을 도와줄 국내 유일 브레드 맵
 - [코잇(COEAT)](https://github.com/CO-EAT/CO-EAT-SERVER) : 오늘 뭐 먹을래? 아무거나는 이제 그만! Let's COEAT! 모두가 행복한, 메뉴 취합 웹 서비스
-- [소복소복](https://github.com/TeamSobokSobok/Sobok-Server) : 소중한 사람과 함께하는 복약 체크 서비스
+- [소복소복]() : 소중한 사람과 함께하는 복약 체크 서비스
 
 ### 2020
 - [E-oom](https://github.com/kanghanhee/E-oom) : 온라인(비대면) 교육 전문 플랫폼
