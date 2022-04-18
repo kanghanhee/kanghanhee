@@ -1,6 +1,6 @@
 <div align=center>
  
-![header](https://capsule-render.vercel.app/api?type=rect&color=	#FFA07A&height=100&section=header&text=hanhee&fontSize=30)
+![header](https://capsule-render.vercel.app/api?type=rect&color=FFA07A&height=100&section=header&text=hanhee&fontSize=65)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kanghanhee&count_private=true&show_icons=true&theme=panda)
  
