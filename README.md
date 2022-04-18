@@ -1,6 +1,6 @@
 <div align=center>
  
-![header](https://capsule-render.vercel.app/api?type=waving&height=250&text=Hanhee&color=gradient)
+![header](https://capsule-render.vercel.app/api?type=waving&height=250&text=Hanhee&color=pink)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kanghanhee&count_private=true&show_icons=true&theme=buefy)
  
