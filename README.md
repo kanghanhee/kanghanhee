@@ -1,6 +1,6 @@
 <div align=center>
  
-![header](https://capsule-render.vercel.app/api?type=rect&color=FFA07A&height=100&section=header&text=hanhee&fontSize=65)
+![header](https://capsule-render.vercel.app/api?type=rect&color=FFA07A&height=200&section=header&text=🌼%20hanhee%20🌼&fontSize=65)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kanghanhee&count_private=true&show_icons=true&theme=panda)
  
@@ -23,6 +23,8 @@
 
 👉[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:snugyun01@gmail.com)
 [![GitHub](http://img.shields.io/badge/GitHub-black?style=flat-square&logo=github&link=https://zzsza.github.io/)](https://github.com/kanghanhee)👈
+
+![footer](https://capsule-render.vercel.app/api?type=wave&color=48D1CC&height=200&section=footer&text=&fontSize=)
 
 </div>
 
