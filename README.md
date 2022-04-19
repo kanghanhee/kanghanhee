@@ -27,16 +27,31 @@
 
 <br>
 
-## :books: Projects
-### 2021
-- [테이커스(Takeus)](https://github.com/TAKE-US/TAKEUS-BACK) : 유기견 해외이동봉사 대상견 매칭 서비스
-- [킥(ㅋick)](https://github.com/SOPT28th-SOPKATHON-Kick) : 이불'킥'하고 싶은 순간을 유머스럽게 공유하는 커뮤니티형 플랫폼
-- [빵동여지도(빵東輿地圖)](https://github.com/bbangmap/BBangMap-Server) : 당신의 후회없는 빵 선택을 도와줄 국내 유일 브레드 맵
-- [코잇(COEAT)](https://github.com/CO-EAT/CO-EAT-SERVER) : 오늘 뭐 먹을래? 아무거나는 이제 그만! Let's COEAT! 모두가 행복한, 메뉴 취합 웹 서비스
-- [소복소복](https://github.com/TeamSobokSobok/Sobok-Server) : 소중한 사람과 함께하는 복약 체크 서비스
+### Education
+2018.03 ~ : Sungshin Women's University, Computer Engineering
 
-### 2020
+### Project
+#### 2022
+- [코잇(COEAT)](https://github.com/CO-EAT/CO-EAT-SERVER) : 오늘 뭐 먹을래? 아무거나는 이제 그만! Let's COEAT! 모두가 행복한, 메뉴 취합 웹 서비스
+- [빵동여지도(빵東輿地圖)](https://github.com/bbangmap) : 당신의 후회없는 빵 선택을 도와줄 국내 유일 브레드 맵 [ver 1.0.8](https://linktr.ee/bbangmap)
+- [테이커스(Takeus)](https://github.com/TAKE-US/TAKEUS-BACK) : 유기견 해외이동봉사 대상견 매칭 서비스 [ver 1.0.0](https://www.take-us.kr)
+
+#### 2021
+- [빵동여지도(빵東輿地圖)](https://github.com/bbangmap/BBangMap-Server) : 당신의 후회없는 빵 선택을 도와줄 국내 유일 브레드 맵 [ver 1.0.1](https://linktr.ee/bbangmap)
+- [소복소복](https://github.com/TeamSobokSobok/Sobok-Server) / 29th APPJAM
+- [코잇(COEAT)](https://github.com/CO-EAT/CO-EAT-SERVER) / 29th SOPKATHON
+- [테이커스(Takeus)](https://github.com/TAKE-US/TAKEUS-BACK) / 28th APPJAM
+- [킥(ㅋick)](https://github.com/SOPT28th-SOPKATHON-Kick) / 28th SOPKATHON
+
+#### 2020
 - [E-oom](https://github.com/kanghanhee/E-oom) : 온라인(비대면) 교육 전문 플랫폼
+  
+### Community
+#### 2022
+
+#### 2021
+  - 29th SOPT Server Development
+  - 28th SOPT Server Development
 <br> 
 
 <!--
