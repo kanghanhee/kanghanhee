@@ -1,25 +1,19 @@
-<div align=center>
+<div align=>
  
-![header](https://capsule-render.vercel.app/api?type=rect&color=FFA07A&height=100&section=header&text=🌼%20Hanhee%20🌼&fontSize=30)
+### Interest
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)  ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white) <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kanghanhee&count_private=true&show_icons=true&theme=panda)
- 
-### :eyes: :seedling: interest
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)  ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white)  ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white)
-<br>
- 
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)  ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white)
-<br>
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)  ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white) <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white"/> <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=NestJS&logoColor=white"/> 
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white)  ![AmazonAWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white)
-<br><br><br>
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white)  ![AmazonAWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white) <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white"/>
+<br>
   
-### :raised_hands: me
-<h5 align="center">
-
+### Me
 👉[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:snugyun01@gmail.com)
 [![GitHub](http://img.shields.io/badge/GitHub-black?style=flat-square&logo=github&link=https://zzsza.github.io/)](https://github.com/kanghanhee)👈
-
+ 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kanghanhee&count_private=true&show_icons=true&theme=panda)
+ 
 ![footer](https://capsule-render.vercel.app/api?type=wave&color=48D1CC&height=200&section=footer&text=&fontSize=)
 
 </div>
