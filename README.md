@@ -50,8 +50,7 @@
 #### 2022
 
 #### 2021
-  - 29th SOPT Server Development
-  - 28th SOPT Server Development
+  - 28th, 29th SOPT Server Development
 <br> 
 
 <!--
