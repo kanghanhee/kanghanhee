@@ -26,7 +26,7 @@
 
 ### Project
 #### 2022
-- [코잇(COEAT)](https://github.com/CO-EAT/CO-EAT-SERVER) : 오늘 뭐 먹을래? 아무거나는 이제 그만! Let's COEAT! 모두가 행복한, 메뉴 취합 웹 서비스 [link](https://www.coeat.site)
+- [코잇(COEAT)](https://github.com/CO-EAT/CO-EAT-SERVER) : 오늘 뭐 먹을래? 아무거나는 이제 그만! Let's COEAT! 모두가 행복한, 메뉴 취합 웹 서비스 6월 중순 예정 [link](https://www.coeat.site)
 - [빵동여지도(빵東輿地圖)](https://github.com/bbangmap) : 당신의 후회없는 빵 선택을 도와줄 국내 유일 브레드 맵 [ver 1.0.8](https://linktr.ee/bbangmap)
 - [테이커스(Takeus)](https://github.com/TAKE-US/TAKEUS-BACK) : 유기견 해외이동봉사 대상견 매칭 서비스 [ver 1.0.0](https://www.take-us.kr)
 
