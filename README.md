@@ -1,4 +1,4 @@
-## 🌈 Here's my development history! 🌈
+## 🌈 Here's my development history 🌈
 
 ### 💻 Project
 
