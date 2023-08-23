@@ -24,7 +24,7 @@
 
 ### 🏢 Group, Organization
 
-**2023.01 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Incross corporation, Ad Platform Development Team Intern
+**2023.01 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Incross corporation, Ad Platform Infra Development Team Intern
 
 **2022.01 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; SOPT 29th Server Part
 
